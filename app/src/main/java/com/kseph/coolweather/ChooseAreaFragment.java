@@ -47,7 +47,7 @@ public class ChooseAreaFragment extends Fragment {
     private TextView titleText;
     private Button backButton;
     private ListView listView;
-
+    // todo test
     private ArrayAdapter<String> adapter;
 
     private List<String> dataList = new ArrayList<>();
